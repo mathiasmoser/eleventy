@@ -1,7 +1,7 @@
 ---
 items:
   - text: Menu One
-    url: "#"
+    url: "https://www.orf.at"
   - text: Menu Two
     url: "#"
   - text: Menu Three
